@@ -1,0 +1,5 @@
+1.- Abre el "MessasgePrueba.txt"
+2.- Escribe un mensaje
+3.- Guarda el mensaje
+4.- Ejecuta el "executeEncriptar"
+5.- Ejecuta el "executeDescencriptar"
